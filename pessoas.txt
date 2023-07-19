@@ -1,0 +1,6 @@
+Nome: maria Idade: 45
+Nome: joao Idade: 33
+Nome: pedro Idade: 63
+Nome: ana Idade: 21
+Nome: bia Idade: 40
+Nome: carlos Idade: 14
